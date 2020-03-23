@@ -7,4 +7,4 @@ sudo chmod +x add_to_zshrc.sh
 ```
 
 ## Credit
-API: Workpointnews 🙏
+API: [Workpointnews](https://covid19-cdn.workpointnews.com/api/constants.json "Workpointnews") 🙏 
